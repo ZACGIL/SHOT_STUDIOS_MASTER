@@ -1,0 +1,980 @@
+﻿Log file open, 02/27/18 10:40:22
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: SHOT_STUDIOS_MASTER
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1725442367) SRandInit(1725442368).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.166062
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogHMD: Failed initializing OVRPlugin 1.19.0
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.02.26-23.40.24:768][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.26-23.40.24:768][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.02.26-23.40.24:779][  0]LogInit: Computer: SYD-R102-PC05
+[2018.02.26-23.40.24:779][  0]LogInit: User: zgilfoyle
+[2018.02.26-23.40.24:779][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.02.26-23.40.24:779][  0]LogInit: High frequency timer resolution =3.328125 MHz
+[2018.02.26-23.40.24:779][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2018.02.26-23.40.24:779][  0]LogMemory: Platform Memory Stats for Windows
+[2018.02.26-23.40.24:779][  0]LogMemory: Process Physical Memory: 278.25 MB used, 278.25 MB peak
+[2018.02.26-23.40.24:779][  0]LogMemory: Process Virtual Memory: 276.20 MB used, 276.20 MB peak
+[2018.02.26-23.40.24:779][  0]LogMemory: Physical Memory: 9202.30 MB used,  23480.80 MB free, 32683.10 MB total
+[2018.02.26-23.40.24:779][  0]LogMemory: Virtual Memory: 734.64 MB used,  23480.80 MB free, 134217728.00 MB total
+[2018.02.26-23.40.24:994][  0]LogInit: Using OS detected language (en-US).
+[2018.02.26-23.40.24:994][  0]LogInit: Using OS detected locale (en-AU).
+[2018.02.26-23.40.24:998][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.02.26-23.40.25:369][  0]LogInit: Setting process to per monitor DPI aware
+[2018.02.26-23.40.25:691][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.26-23.40.25:731][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980' (Feature Level 11_0)
+[2018.02.26-23.40.25:731][  0]LogD3D11RHI:       4060/0/16341 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.02.26-23.40.25:733][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.02.26-23.40.25:733][  0]LogD3D11RHI:       0/0/16341 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.02.26-23.40.25:733][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.02.26-23.40.25:740][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.26-23.40.25:740][  0]LogD3D11RHI:     GPU DeviceId: 0x13c0 (for the marketing name, search the web for "GPU Device Id")
+[2018.02.26-23.40.25:740][  0]LogWindows: EnumDisplayDevices:
+[2018.02.26-23.40.25:740][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980' (P:1 D:1)
+[2018.02.26-23.40.25:740][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2018.02.26-23.40.25:740][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2018.02.26-23.40.25:740][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2018.02.26-23.40.25:740][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.02.26-23.40.25:740][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980
+[2018.02.26-23.40.25:740][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.02.26-23.40.25:740][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.02.26-23.40.25:740][  0]LogRHI: Texture pool is 2842 MB (70% of 4060 MB)
+[2018.02.26-23.40.25:764][  0]LogD3D11RHI: Async texture creation enabled
+[2018.02.26-23.40.25:776][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.02.26-23.40.25:819][  0]LogShaderCompilers: Guid format shader working directory is -40 characters bigger than the processId version (../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Intermediate/Shaders/WorkingDirectory/8216/).
+[2018.02.26-23.40.25:819][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/zgilfoyle/AppData/Local/Temp/UnrealShaderWorkingDir/54AF54874221A0457FCC4DBCB75603C3/'.
+[2018.02.26-23.40.25:820][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.02.26-23.40.26:825][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.02.26-23.40.26:889][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.02.26-23.40.26:954][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.02.26-23.40.27:018][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.02.26-23.40.27:084][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.02.26-23.40.27:150][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.02.26-23.40.27:221][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.02.26-23.40.27:295][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.02.26-23.40.27:355][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.02.26-23.40.27:420][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.02.26-23.40.27:483][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.02.26-23.40.27:548][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.02.26-23.40.27:611][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.02.26-23.40.27:676][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.02.26-23.40.27:806][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.02.26-23.40.27:806][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.02.26-23.40.27:870][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.02.26-23.40.27:923][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.02.26-23.40.28:033][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.02.26-23.40.28:066][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.02.26-23.40.28:130][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.02.26-23.40.28:194][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.02.26-23.40.28:268][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.02.26-23.40.28:348][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.02.26-23.40.28:348][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.02.26-23.40.28:956][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.02.26-23.40.29:012][  0]LogDerivedDataCache: Loaded boot cache 0.06s 78MB C:/Users/zgilfoyle/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.26-23.40.29:012][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/zgilfoyle/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.02.26-23.40.29:012][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.02.26-23.40.29:012][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.02.26-23.40.29:012][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.02.26-23.40.29:012][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.02.26-23.40.29:025][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.02.26-23.40.29:038][  0]LogDerivedDataCache: Using Local data cache path C:/Users/zgilfoyle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.02.26-23.40.29:046][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.02.26-23.40.29:046][  0]LogSlate: Using Freetype 2.6.0
+[2018.02.26-23.40.29:047][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.26-23.40.29:047][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.26-23.40.29:393][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.26-23.40.29:799][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.02.26-23.40.29:855][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.02.26-23.40.29:855][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.02.26-23.40.29:855][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.02.26-23.40.29:855][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.02.26-23.40.29:855][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.02.26-23.40.29:885][  0]LogNetVersion: SHOT_STUDIOS_MASTER , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2059099905)
+[2018.02.26-23.40.30:061][  0]LogAssetRegistry: FAssetRegistry took 0.0263 seconds to start up
+[2018.02.26-23.40.30:563][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.065380 seconds
+[2018.02.26-23.40.30:567][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.02.26-23.40.30:567][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.02.26-23.40.30:567][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.02.26-23.40.30:638][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.02.26-23.40.33:777][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.02.26-23.40.33:835][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.02.26-23.40.34:718][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.02.26-23.40.35:242][  0]SourceControl: Source control is disabled
+[2018.02.26-23.40.35:242][  0]SourceControl: Source control is disabled
+[2018.02.26-23.40.35:313][  0]SourceControl: Source control is disabled
+[2018.02.26-23.40.35:381][  0]SourceControl: Source control is disabled
+[2018.02.26-23.40.36:442][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.02.26-23.40.36:793][  0]LogOcInput: OculusInput pre-init called
+[2018.02.26-23.40.37:158][  0]LogEngine: Initializing Engine...
+[2018.02.26-23.40.37:160][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.02.26-23.40.37:340][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.02.26-23.40.37:340][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.02.26-23.40.37:506][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.02.26-23.40.37:522][  0]LogInit: XAudio2 using 'U28E850-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.26-23.40.37:548][  0]LogInit: FAudioDevice initialized.
+[2018.02.26-23.40.37:628][  0]LogDerivedDataCache: Saved boot cache 0.08s 78MB C:/Users/zgilfoyle/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.26-23.40.37:636][  0]LogInit: Texture streaming: Enabled
+[2018.02.26-23.40.37:767][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.02.26-23.40.37:941][  0]LogInit: Transaction tracking system initialized
+[2018.02.26-23.40.38:358][  0]BlueprintLog: New page: Editor Load
+[2018.02.26-23.40.39:535][  0]LocalizationService: Localization service is disabled
+[2018.02.26-23.40.40:506][  0]LogConsoleResponse: Display: 
+[2018.02.26-23.40.40:685][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.02.26-23.40.40:685][  0]LogCook: Display: Mobile HDR setting 1
+[2018.02.26-23.40.40:685][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.02.26-23.40.41:357][  0]LogFileCache: Scanning file cache for directory 'C:/Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/' took 0.01s
+[2018.02.26-23.40.42:247][  0]SourceControl: Source control is disabled
+[2018.02.26-23.40.42:247][  0]Cmd: MAP LOAD FILE="../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.26-23.40.42:248][  0]LightingResults: New page: Lighting Build
+[2018.02.26-23.40.42:307][  0]MapCheck: New page: Map Check
+[2018.02.26-23.40.42:307][  0]LightingResults: New page: Lighting Build
+[2018.02.26-23.40.42:479][  0]LogBlueprint: Warning: [Compiler Ue4ASP_Character] InputAction Event references unknown Action 'Crouch' for  InputAction Crouch
+[2018.02.26-23.40.42:479][  0]LogBlueprint: Warning: [Compiler Ue4ASP_Character] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2018.02.26-23.40.42:479][  0]LogBlueprint: Warning: [Compiler Ue4ASP_Character] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2018.02.26-23.40.42:480][  0]LogBlueprint: Warning: [Compiler Ue4ASP_Character] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2018.02.26-23.40.42:486][  0]LogBlueprint: Warning: [Compiler Ue4ASP_Character] [0020.69] Compile of Ue4ASP_Character successful, but with 4 Warning(s) [in 29 ms] (/Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character)
+[2018.02.26-23.40.42:586][  0]LogLinker: Warning: Can't find file '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData'
+[2018.02.26-23.40.42:586][  0]LogLinker: Warning: Can't find file for asset '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData' while loading ../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Maps/TopDownExampleMap.umap.
+[2018.02.26-23.40.42:586][  0]LoadErrors: Error: /Game/TopDownBP/Maps/TopDownExampleMap : Can't find file for asset. /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData
+[2018.02.26-23.40.42:592][  0]LogLinker: Warning: Can't find file '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData'
+[2018.02.26-23.40.42:592][  0]LogLinker: Warning: Can't find file for asset '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData' while loading ../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Maps/TopDownExampleMap.umap.
+[2018.02.26-23.40.42:592][  0]LoadErrors: Error: /Game/TopDownBP/Maps/TopDownExampleMap : Can't find file for asset. /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData
+[2018.02.26-23.40.42:593][  0]LogLinker: Warning: Can't find file '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData'
+[2018.02.26-23.40.42:593][  0]LogLinker: Warning: Can't find file for asset '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData' while loading NULL.
+[2018.02.26-23.40.42:594][  0]LogLinker: Warning: Can't find file '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData'
+[2018.02.26-23.40.42:594][  0]LogLinker: Warning: Can't find file for asset '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData' while loading NULL.
+[2018.02.26-23.40.42:623][  0]LogLinker: Warning: Can't find file '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData'
+[2018.02.26-23.40.42:623][  0]LoadErrors: Failed to load /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData Referenced by PersistentLevel
+[2018.02.26-23.40.42:623][  0]LogLinker: Warning: Can't find file for asset '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData' while loading NULL.
+[2018.02.26-23.40.42:623][  0]LoadErrors: Failed to load /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData Referenced by PersistentLevel
+[2018.02.26-23.40.42:751][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.02.26-23.40.42:760][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.26-23.40.42:771][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.26-23.40.42:844][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 73.27ms to complete.
+[2018.02.26-23.40.42:844][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.597
+[2018.02.26-23.40.42:897][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.26-23.40.42:978][  0]LogCollectionManager: Loaded 0 collections in 0.001391 seconds
+[2018.02.26-23.40.43:073][  0]LogFileCache: Scanning file cache for directory 'C:/Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Saved/Collections/' took 0.01s
+[2018.02.26-23.40.43:073][  0]LogFileCache: Scanning file cache for directory 'C:/Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/Developers/zgilfoyle/Collections/' took 0.01s
+[2018.02.26-23.40.43:073][  0]LogFileCache: Scanning file cache for directory 'C:/Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/Collections/' took 0.01s
+[2018.02.26-23.40.43:073][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.02.26-23.40.43:081][  0]LogContentBrowser: Native class hierarchy populated in 0.0072 seconds. Added 2363 classes and 519 folders.
+[2018.02.26-23.40.43:167][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.02.26-23.40.43:203][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.02.26-23.40.43:262][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.02.26-23.40.43:402][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.02.26-23.40.43:402][  0]LogLoad: (Engine Initialization) Total time: 21.61 seconds
+[2018.02.26-23.40.43:402][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.02.26-23.40.43:403][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.02.26-23.40.43:403][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.02.26-23.40.43:428][  0]LogAssetRegistry: Asset discovery search completed in 13.3888 seconds
+[2018.02.26-23.40.43:429][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.02.26-23.40.43:429][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000035 seconds (updated 0 objects)
+[2018.02.26-23.40.43:432][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.02.26-23.40.43:448][  0]LogSlate: Took 0.000257 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.26-23.40.43:450][  0]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.02.26-23.40.43:454][  0]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.02.26-23.40.43:588][  1]LogRenderer: Reallocating scene render targets to support 800x360 Format 10 NumSamples 1 (Frame:1).
+[2018.02.26-23.40.44:423][ 71]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.26-23.41.11:876][919]LogRenderer: Reallocating scene render targets to support 1616x812 Format 10 NumSamples 1 (Frame:2509).
+[2018.02.26-23.41.18:227][673]MapCheck: New page: Map Check
+[2018.02.26-23.41.18:237][673]LightingResults: New page: Lighting Build - 27 Feb 2018 9:41:18 pm
+[2018.02.26-23.41.18:348][673]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.02.26-23.41.18:475][673]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.02.26-23.41.18:486][673]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.02.26-23.41.19:071][673]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.02.26-23.41.19:071][673]LogSwarmInterface: [TryOpenConnection] Local Process ID is 8216
+[2018.02.26-23.41.21:917][673]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.02.26-23.41.21:917][673]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.02.26-23.41.21:917][673]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.02.26-23.41.21:917][673]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.02.26-23.41.21:917][673]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.02.26-23.41.22:068][673]LogEditorBuildUtils: Build time 0:03
+[2018.02.26-23.41.26:273][ 33]Job is a success!
+[2018.02.26-23.41.26:295][ 34]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.26-23.41.26:325][ 34]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.013s
+[2018.02.26-23.41.26:325][ 34]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.02.26-23.41.26:325][ 34]LogVolumetricLightmapImport:      BrickData 175x5x5 = 0.1Mb
+[2018.02.26-23.41.26:325][ 34]LogVolumetricLightmapImport:      Bricks at Level
+[2018.02.26-23.41.26:325][ 34]LogVolumetricLightmapImport:          0: 2.9% covering 100.0% of volume
+[2018.02.26-23.41.26:325][ 34]LogVolumetricLightmapImport:          1: 11.4% covering 6.3% of volume
+[2018.02.26-23.41.26:325][ 34]LogVolumetricLightmapImport:          2: 85.7% covering 0.7% of volume
+[2018.02.26-23.41.26:685][ 34]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2018.02.26-23.41.26:685][ 34]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.02.26-23.41.26:685][ 34]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.02.26-23.41.26:685][ 34]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 512X256)
+[2018.02.26-23.41.26:685][ 34]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 512X512)
+[2018.02.26-23.41.26:685][ 34]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 512X512)
+[2018.02.26-23.41.26:685][ 34]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 64X32)
+[2018.02.26-23.41.26:685][ 34]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2018.02.26-23.41.26:685][ 34]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2018.02.26-23.41.26:889][ 34]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2018.02.26-23.41.26:889][ 34]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2018.02.26-23.41.26:914][ 34]Lightmass on SYD-R102-PC05: 4.04 sec total, 111 ms importing, 6 ms setup, 1.15 sec photons, 2.74 sec processing, 0 ms extra exporting [25/25 mappings]. Threads: 19.0 sec total, 9.63 sec processing.
+[2018.02.26-23.41.26:933][ 34]LogStaticLightingSystem: Illumination: 8.67 sec (327 ms encoding lightmaps, 200 ms encoding shadowmaps)
+[2018.02.26-23.41.26:933][ 34]LogStaticLightingSystem: Lightmap texture memory:  3.3 MB (3.3 MB streaming, 0.0 MB non-streaming), 6 textures
+[2018.02.26-23.41.26:933][ 34]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.02.26-23.41.27:923][ 34]DumpUnbuiltLightIteractions
+[2018.02.26-23.41.27:923][ 34]Lights with unbuilt interactions: 0
+[2018.02.26-23.41.27:923][ 34]
+[2018.02.26-23.41.27:923][ 34]Primitives with unbuilt interactions: 0
+[2018.02.26-23.41.27:940][ 35]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.02.26-23.41.27:940][ 35]MapCheck: New page: TopDownExampleMap - 27 Feb 2018 9:41:27 pm
+[2018.02.26-23.41.28:032][ 35]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 92.322ms to complete.
+[2018.02.26-23.41.29:230][177]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.26-23.41.29:275][177]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.26-23.41.29:275][177]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.26-23.41.29:276][177]PIE: New page: PIE session: TopDownExampleMap (27 Feb 2018 9:41:29 pm)
+[2018.02.26-23.41.29:276][177]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.02.26-23.41.29:296][177]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019876s)
+[2018.02.26-23.41.29:297][177]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.02.26-23.41.29:297][177]LogPlayLevel: PIE: World Init took: (0.001206s)
+[2018.02.26-23.41.29:298][177]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.021733s)
+[2018.02.26-23.41.29:316][177]LogInit: XAudio2 using 'U28E850-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.26-23.41.29:323][177]LogInit: FAudioDevice initialized.
+[2018.02.26-23.41.29:365][177]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.02.26-23.41.29:368][177]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.02.27-10.41.29
+[2018.02.26-23.41.29:368][177]LogWorld: Bringing up level for play took: 0.002327
+[2018.02.26-23.41.29:427][177]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.02.26-23.41.29:428][177]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.357
+[2018.02.26-23.41.29:428][177]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.26-23.41.54:463][172]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.26-23.41.54:493][172]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.26-23.41.55:484][269]LogSavePackage: Save=144.24ms
+[2018.02.26-23.41.55:484][269]LogSavePackage: Moving '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Saved/TopDownExampleMap0003C9244E4FD54EBEAF12B4A8373A8A.tmp' to '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2018.02.26-23.41.55:489][269]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2018.02.26-23.41.55:606][269]LogSavePackage: Save=98.75ms
+[2018.02.26-23.41.55:606][269]LogSavePackage: Moving '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Saved/TopDownExampleMap_BuiltData35605021470F1F9CAA225CB6C13426F2.tmp' to '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2018.02.26-23.41.55:610][269]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset
+[2018.02.26-23.42.34:013][821]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2018.02.26-23.42.34:602][821]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.02.26-23.42.45:028][621]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_103' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:029][621]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_105' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:031][621]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_107' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:048][622]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_109' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:050][622]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_111' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:064][623]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_113' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:076][624]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_115' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:079][624]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_117' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:092][625]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_119' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:094][625]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_121' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:107][626]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_123' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:109][626]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_125' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:122][627]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_127' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:124][627]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_129' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:137][628]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_131' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:138][628]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_133' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:152][629]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_135' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:166][630]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_137' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:180][631]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_139' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:194][632]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_141' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:208][633]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_143' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:222][634]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_145' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:237][635]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_147' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:251][636]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_149' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:265][637]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_151' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:280][638]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_153' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:294][639]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_155' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:308][640]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_157' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:322][641]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_159' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:337][642]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_161' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:351][643]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_163' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:365][644]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_165' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:379][645]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_167' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:393][646]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_169' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:407][647]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_171' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:422][648]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_173' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:437][649]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_175' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:451][650]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_177' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:465][651]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_179' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:479][652]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_181' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:493][653]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_183' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:507][654]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_185' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:521][655]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_187' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:535][656]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_189' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:537][656]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_191' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:551][657]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_193' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:566][658]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_195' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:579][659]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_197' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:581][659]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_199' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:595][660]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_201' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:608][661]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_203' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:610][661]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_205' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:623][662]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_207' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:625][662]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_209' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:639][663]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_211' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:653][664]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_213' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:667][665]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_215' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:682][666]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_217' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:695][667]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_219' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:709][668]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_221' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:723][669]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_223' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:737][670]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_225' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:752][671]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_227' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:766][672]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_229' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:780][673]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_231' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:796][674]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_233' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:811][675]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_235' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:813][675]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_237' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:827][676]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_239' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:841][677]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_241' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:855][678]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_243' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:869][679]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_245' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:883][680]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_247' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:897][681]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_249' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:911][682]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_251' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:925][683]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_253' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:939][684]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_255' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:954][685]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_257' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:968][686]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_259' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:982][687]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_261' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.45:997][688]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_263' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:010][689]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_265' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:025][690]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_267' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:039][691]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_269' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:053][692]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_271' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:067][693]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_273' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:080][694]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_275' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:095][695]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_277' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:109][696]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_279' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:121][697]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_281' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:124][697]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_283' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:136][698]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_285' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:139][698]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_287' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:153][699]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_289' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:167][700]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_291' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:181][701]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_293' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:195][702]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_295' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:210][703]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_297' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:224][704]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_299' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:237][705]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_301' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:252][706]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_303' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:267][707]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_305' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:280][708]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_307' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:294][709]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_309' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:308][710]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_311' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:324][711]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_313' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:338][712]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_315' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:352][713]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_317' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:366][714]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_319' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:380][715]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_321' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:394][716]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_323' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:408][717]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_325' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:422][718]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_327' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:437][719]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_329' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:453][720]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_331' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:467][721]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_333' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:481][722]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_335' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:495][723]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_337' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:509][724]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_339' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:523][725]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_341' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:537][726]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_343' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:551][727]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_345' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:565][728]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_347' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:579][729]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_349' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:593][730]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_351' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:608][731]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_353' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:621][732]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_355' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:635][733]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_357' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:649][734]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_359' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:663][735]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_361' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:677][736]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_363' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:691][737]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_365' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:705][738]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_367' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:720][739]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_369' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:735][740]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_371' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:749][741]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_373' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:764][742]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_375' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:778][743]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_377' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:793][744]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_379' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:808][745]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_381' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:822][746]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_383' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:836][747]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_385' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:850][748]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_387' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:864][749]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_389' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:878][750]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_391' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:892][751]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_393' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:906][752]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_395' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:920][753]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_397' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:935][754]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_399' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:949][755]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_401' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:963][756]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_403' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:977][757]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_405' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.46:991][758]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_407' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.47:006][759]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_409' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.47:021][760]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_411' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.47:035][761]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_413' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.47:049][762]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_415' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.47:063][763]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_417' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.48:754][871]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_103' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.48:756][871]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_421' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.48:771][872]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_423' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.48:773][872]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_425' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.48:787][873]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_427' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.48:789][873]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_429' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.48:803][874]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_431' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.48:805][874]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_433' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.48:820][875]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_435' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.48:836][876]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_437' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.48:850][877]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_439' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.48:864][878]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_441' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.48:879][879]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_443' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.48:893][880]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_445' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.48:907][881]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_447' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.48:921][882]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_449' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.48:935][883]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_451' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.48:948][884]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_453' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.48:962][885]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_455' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.48:976][886]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_457' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.48:990][887]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_459' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:004][888]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_461' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:018][889]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_463' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:033][890]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_465' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:046][891]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_467' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:060][892]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_469' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:073][893]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_471' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:087][894]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_473' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:101][895]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_475' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:115][896]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_477' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:128][897]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_479' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:142][898]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_481' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:156][899]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_483' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:170][900]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_485' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:185][901]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_487' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:199][902]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_489' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:213][903]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_491' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:228][904]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_493' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:242][905]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_495' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:255][906]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_497' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:269][907]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_499' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:283][908]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_501' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:298][909]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_503' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:311][910]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_505' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:325][911]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_507' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:338][912]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_509' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:341][912]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_511' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:356][913]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_513' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:369][914]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_515' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:384][915]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_517' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:398][916]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_519' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:412][917]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_521' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:426][918]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_523' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:440][919]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_525' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:455][920]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_527' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:469][921]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_529' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:484][922]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_531' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:498][923]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_533' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:511][924]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_535' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:525][925]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_537' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:540][926]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_539' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:553][927]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_541' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:556][927]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_543' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:569][928]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_545' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:571][928]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_547' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:584][929]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_549' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:587][929]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_551' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:599][930]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_553' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:601][930]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_555' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:616][931]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_557' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:629][932]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_559' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:643][933]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_561' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:658][934]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_563' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:671][935]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_565' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:685][936]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_567' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:699][937]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_569' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:713][938]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_571' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:727][939]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_573' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:742][940]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_575' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:755][941]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_577' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:757][941]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_579' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:770][942]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_581' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:785][943]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_583' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:799][944]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_585' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:813][945]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_587' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:827][946]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_589' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:841][947]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_591' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:854][948]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_593' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:868][949]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_595' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:882][950]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_597' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:897][951]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_599' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:911][952]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_601' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:924][953]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_603' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:938][954]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_605' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:953][955]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_607' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:968][956]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_609' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:982][957]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_611' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.49:996][958]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_613' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.50:010][959]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_615' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.50:024][960]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_617' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.50:039][961]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_619' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.50:053][962]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_621' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.50:068][963]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_623' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.50:082][964]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_625' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.50:096][965]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_627' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.50:110][966]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_629' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.50:124][967]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_631' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.50:138][968]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_633' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.50:152][969]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_635' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.50:166][970]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_637' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.50:180][971]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_639' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.42.50:193][972]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_641' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.26-23.43.19:053][ 14]LogSavePackage: Save=7.89ms
+[2018.02.26-23.43.19:053][ 14]LogSavePackage: Moving '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Saved/HealthBarWidgetA2B7583E449A1C7728A4059137943424.tmp' to '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/HealthBarWidget.uasset'
+[2018.02.26-23.43.19:057][ 14]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/HealthBarWidget.uasset
+[2018.02.26-23.43.19:636][ 55]BlueprintLog: New page: Compile HealthBarWidget
+[2018.02.26-23.43.54:146][728]LogSlate: Took 0.000513 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.02.26-23.45.21:508][749]LogSlate: Took 0.000235 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.02.26-23.45.28:377][553]LogSavePackage: Save=41.78ms
+[2018.02.26-23.45.28:377][553]LogSavePackage: Moving '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Saved/TopDownCharacter6890CD86408BDE57D9E0DCAFB913A982.tmp' to '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2018.02.26-23.45.28:381][553]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Blueprints/TopDownCharacter.uasset
+[2018.02.26-23.45.28:709][592]BlueprintLog: New page: Compile TopDownCharacter
+[2018.02.26-23.46.28:227][640]LogSavePackage: Save=39.75ms
+[2018.02.26-23.46.28:227][640]LogSavePackage: Moving '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Saved/TopDownCharacter62E3F22C47A8BBC3F7AED8838FA6F4B0.tmp' to '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2018.02.26-23.46.28:232][640]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Blueprints/TopDownCharacter.uasset
+[2018.02.26-23.46.28:721][697]BlueprintLog: New page: Compile TopDownCharacter
+[2018.02.26-23.48.07:396][413]LogSavePackage: Save=15.63ms
+[2018.02.26-23.48.07:396][413]LogSavePackage: Moving '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Saved/HealthBarWidgetE7AD5CA1458FC484BFADC094309734EA.tmp' to '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/HealthBarWidget.uasset'
+[2018.02.26-23.48.07:401][413]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/HealthBarWidget.uasset
+[2018.02.26-23.48.08:119][498]BlueprintLog: New page: Compile HealthBarWidget
+[2018.02.26-23.50.07:507][237]LogSavePackage: Save=45.56ms
+[2018.02.26-23.50.07:507][237]LogSavePackage: Moving '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Saved/TopDownCharacter06C09BFC4A1C7E692C964DBD80174FCA.tmp' to '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2018.02.26-23.50.07:512][237]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Blueprints/TopDownCharacter.uasset
+[2018.02.26-23.50.08:128][309]BlueprintLog: New page: Compile TopDownCharacter
+[2018.02.26-23.50.11:255][604]LogSavePackage: Save=180.56ms
+[2018.02.26-23.50.11:255][604]LogSavePackage: Moving '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Saved/TopDownExampleMap2306A02E4C2B55FF03048797E3C24633.tmp' to '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2018.02.26-23.50.11:261][604]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2018.02.26-23.50.11:398][604]LogSavePackage: Save=98.73ms
+[2018.02.26-23.50.11:398][604]LogSavePackage: Moving '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Saved/TopDownExampleMap_BuiltData9E34B2E34AC3C92938F63990CFFDAA56.tmp' to '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2018.02.26-23.50.11:400][604]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset
+[2018.02.26-23.50.23:087][953]LogSavePackage: Save=181.53ms
+[2018.02.26-23.50.23:087][953]LogSavePackage: Moving '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Saved/TopDownExampleMap3F3EF0064EEE7B2326DF20A87D85B25E.tmp' to '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2018.02.26-23.50.23:092][953]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2018.02.26-23.50.23:213][953]LogSavePackage: Save=100.23ms
+[2018.02.26-23.50.23:213][953]LogSavePackage: Moving '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Saved/TopDownExampleMap_BuiltDataB1DDC90D424BB18089315B8FA4469230.tmp' to '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2018.02.26-23.50.23:216][953]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset
+[2018.02.26-23.50.24:025][ 46]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.26-23.50.24:046][ 46]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.26-23.50.24:046][ 46]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.26-23.50.24:046][ 46]PIE: New page: PIE session: TopDownExampleMap (27 Feb 2018 9:50:24 pm)
+[2018.02.26-23.50.24:046][ 46]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.02.26-23.50.24:072][ 46]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026012s)
+[2018.02.26-23.50.24:073][ 46]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.02.26-23.50.24:073][ 46]LogPlayLevel: PIE: World Init took: (0.000942s)
+[2018.02.26-23.50.24:073][ 46]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.027366s)
+[2018.02.26-23.50.24:103][ 46]LogInit: XAudio2 using 'U28E850-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.26-23.50.24:110][ 46]LogInit: FAudioDevice initialized.
+[2018.02.26-23.50.24:141][ 46]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.02.26-23.50.24:144][ 46]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.02.27-10.50.24
+[2018.02.26-23.50.24:144][ 46]LogWorld: Bringing up level for play took: 0.001833
+[2018.02.26-23.50.24:146][ 46]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.368
+[2018.02.26-23.50.24:146][ 46]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.26-23.50.33:527][167]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.26-23.50.33:564][167]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.26-23.51.20:118][644]LogSavePackage: Save=50.90ms
+[2018.02.26-23.51.20:118][644]LogSavePackage: Moving '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Saved/TopDownCharacter5700FF194F7284D91742B586573DE0FE.tmp' to '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2018.02.26-23.51.20:123][644]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Blueprints/TopDownCharacter.uasset
+[2018.02.26-23.51.20:637][704]BlueprintLog: New page: Compile TopDownCharacter
+[2018.02.26-23.51.23:152][927]LogSavePackage: Save=197.99ms
+[2018.02.26-23.51.23:152][927]LogSavePackage: Moving '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Saved/TopDownExampleMap5BEA51594D20B3A1680EC7BB26203FA9.tmp' to '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2018.02.26-23.51.23:157][927]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2018.02.26-23.51.23:277][927]LogSavePackage: Save=99.11ms
+[2018.02.26-23.51.23:277][927]LogSavePackage: Moving '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Saved/TopDownExampleMap_BuiltData2791AA64403707FB0297FF9CD7813067.tmp' to '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2018.02.26-23.51.23:279][927]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset
+[2018.02.26-23.51.23:943][  6]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.26-23.51.23:960][  6]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.26-23.51.23:960][  6]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.26-23.51.23:960][  6]PIE: New page: PIE session: TopDownExampleMap (27 Feb 2018 9:51:23 pm)
+[2018.02.26-23.51.23:960][  6]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.02.26-23.51.23:974][  6]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013686s)
+[2018.02.26-23.51.23:974][  6]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.02.26-23.51.23:975][  6]LogPlayLevel: PIE: World Init took: (0.000914s)
+[2018.02.26-23.51.23:975][  6]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.015024s)
+[2018.02.26-23.51.24:003][  6]LogInit: XAudio2 using 'U28E850-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.26-23.51.24:010][  6]LogInit: FAudioDevice initialized.
+[2018.02.26-23.51.24:040][  6]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.02.26-23.51.24:043][  6]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.02.27-10.51.24
+[2018.02.26-23.51.24:043][  6]LogWorld: Bringing up level for play took: 0.001701
+[2018.02.26-23.51.24:044][  6]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.267
+[2018.02.26-23.51.24:044][  6]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.26-23.51.35:864][421]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.26-23.51.35:898][421]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.26-23.51.39:305][824]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.02.26-23.52.26:781][524]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.02.26-23.52.43:881][549]Cmd: TRANSACTION UNDO
+[2018.02.26-23.52.43:881][549]LogEditorTransaction: Undo Move Actors
+[2018.02.26-23.52.45:461][727]Cmd: TRANSACTION UNDO
+[2018.02.26-23.52.45:461][727]LogEditorTransaction: Undo Clicking on Actors
+[2018.02.26-23.53.35:977][715]LogSavePackage: Save=181.03ms
+[2018.02.26-23.53.35:978][715]LogSavePackage: Moving '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Saved/TopDownExampleMap79AFB58B4F89AFF550B2BD8DC463EA5E.tmp' to '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2018.02.26-23.53.35:986][715]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2018.02.26-23.53.36:121][715]LogSavePackage: Save=97.38ms
+[2018.02.26-23.53.36:121][715]LogSavePackage: Moving '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Saved/TopDownExampleMap_BuiltDataD77965AC470ECD610673C0A96B293890.tmp' to '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2018.02.26-23.53.36:123][715]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset
+[2018.02.26-23.53.38:979][ 53]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.26-23.53.38:994][ 53]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.26-23.53.38:994][ 53]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.26-23.53.38:994][ 53]PIE: New page: PIE session: TopDownExampleMap (27 Feb 2018 9:53:38 pm)
+[2018.02.26-23.53.38:994][ 53]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.02.26-23.53.39:009][ 53]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015065s)
+[2018.02.26-23.53.39:010][ 53]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.02.26-23.53.39:010][ 53]LogPlayLevel: PIE: World Init took: (0.000812s)
+[2018.02.26-23.53.39:010][ 53]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.016259s)
+[2018.02.26-23.53.39:041][ 53]LogInit: XAudio2 using 'U28E850-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.26-23.53.39:048][ 53]LogInit: FAudioDevice initialized.
+[2018.02.26-23.53.39:078][ 53]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.02.26-23.53.39:080][ 53]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.02.27-10.53.39
+[2018.02.26-23.53.39:081][ 53]LogWorld: Bringing up level for play took: 0.001831
+[2018.02.26-23.53.39:082][ 53]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.693
+[2018.02.26-23.53.39:082][ 53]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.26-23.53.45:693][843]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.26-23.53.45:731][843]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.26-23.54.11:015][456]LogMetaData: Removing '/Game/TopDownBP/Blueprints/EnemyKnightCharacter.SKEL_EnemyKnightCharacter_C' ref from Metadata '/Game/TopDownBP/Blueprints/TopDownCharacter1.PackageMetaData'
+[2018.02.26-23.54.11:015][456]LogMetaData: Removing '/Game/TopDownBP/Blueprints/EnemyKnightCharacter.EnemyKnightCharacter_C' ref from Metadata '/Game/TopDownBP/Blueprints/TopDownCharacter1.PackageMetaData'
+[2018.02.26-23.54.11:131][456]LogSavePackage: Save=49.43ms
+[2018.02.26-23.54.11:131][456]LogSavePackage: Moving '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Saved/EnemyKnightCharacter27AADF35486CCD82117DBEA366DDD8E9.tmp' to '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Blueprints/EnemyKnightCharacter.uasset'
+[2018.02.26-23.54.11:136][456]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Blueprints/EnemyKnightCharacter.uasset
+[2018.02.26-23.54.13:577][655]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2018.02.26-23.54.13:580][655]LogMaterial: Missing cached shader map for material M_Cursor_Decal, compiling. 
+[2018.02.26-23.54.13:820][655]LogMaterial: Missing cached shader map for material M_SkyBox, compiling. 
+[2018.02.26-23.54.13:887][655]LogMaterial: Missing cached shader map for material M_Cursor_Decal, compiling. 
+[2018.02.26-23.54.16:052][884]MaterialEditorStats: Base pass shader: 77 instructions
+[2018.02.26-23.54.16:052][884]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 98 instructions
+[2018.02.26-23.54.16:052][884]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.02.26-23.54.16:052][884]MaterialEditorStats: Texture samplers: 3/16
+[2018.02.26-23.54.16:052][884]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.02.26-23.56.20:013][899]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.26-23.58.22:625][ 49]LogRenderer: Reallocating scene render targets to support 1616x1000 Format 10 NumSamples 1 (Frame:1).
+[2018.02.26-23.58.28:244][712]LogSavePackage: Save=39.90ms
+[2018.02.26-23.58.28:244][712]LogSavePackage: Moving '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Saved/EnemyKnightCharacter4CF243614781D2C60A14EFB568192DD4.tmp' to '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Blueprints/EnemyKnightCharacter.uasset'
+[2018.02.26-23.58.28:250][712]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Blueprints/EnemyKnightCharacter.uasset
+[2018.02.26-23.58.28:828][781]BlueprintLog: New page: Compile EnemyKnightCharacter
+[2018.02.26-23.58.49:634][158]LogSavePackage: Save=38.38ms
+[2018.02.26-23.58.49:634][158]LogSavePackage: Moving '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Saved/EnemyKnightCharacter1CFF4C9D414A80D185BAE49A03CD7BDD.tmp' to '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Blueprints/EnemyKnightCharacter.uasset'
+[2018.02.26-23.58.49:638][158]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Blueprints/EnemyKnightCharacter.uasset
+[2018.02.26-23.58.50:526][264]BlueprintLog: New page: Compile EnemyKnightCharacter
+[2018.02.26-23.59.13:735][934]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.26-23.59.13:748][934]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.26-23.59.13:748][934]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.26-23.59.13:749][934]PIE: New page: PIE session: TopDownExampleMap (27 Feb 2018 9:59:13 pm)
+[2018.02.26-23.59.13:749][934]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.02.26-23.59.13:764][934]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015497s)
+[2018.02.26-23.59.13:765][934]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.02.26-23.59.13:765][934]LogPlayLevel: PIE: World Init took: (0.001230s)
+[2018.02.26-23.59.13:766][934]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.017092s)
+[2018.02.26-23.59.13:803][934]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.26-23.59.13:814][934]LogInit: FAudioDevice initialized.
+[2018.02.26-23.59.13:848][934]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.02.26-23.59.13:851][934]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.02.27-10.59.13
+[2018.02.26-23.59.13:851][934]LogWorld: Bringing up level for play took: 0.001613
+[2018.02.26-23.59.13:852][934]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.08
+[2018.02.26-23.59.13:852][934]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.26-23.59.19:299][582]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.26-23.59.19:341][582]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.27-00.01.05:650][920]LogSavePackage: Save=45.31ms
+[2018.02.27-00.01.05:650][920]LogSavePackage: Moving '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Saved/EnemyKnightCharacterA50FB28545D858AF5729DC89B2CB1F9E.tmp' to '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Blueprints/EnemyKnightCharacter.uasset'
+[2018.02.27-00.01.05:654][920]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Blueprints/EnemyKnightCharacter.uasset
+[2018.02.27-00.01.06:169][980]BlueprintLog: New page: Compile EnemyKnightCharacter
+[2018.02.27-00.01.09:592][316]LogSavePackage: Save=193.76ms
+[2018.02.27-00.01.09:592][316]LogSavePackage: Moving '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Saved/TopDownExampleMap8B723897455493C8D7DB49AA9373EA90.tmp' to '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2018.02.27-00.01.09:598][316]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2018.02.27-00.01.09:742][316]LogSavePackage: Save=101.15ms
+[2018.02.27-00.01.09:742][316]LogSavePackage: Moving '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Saved/TopDownExampleMap_BuiltDataA009F85A4E2F4B92E4912AB2ABAF973C.tmp' to '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2018.02.27-00.01.09:744][316]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset
+[2018.02.27-00.01.17:173][ 95]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.27-00.01.17:189][ 95]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.27-00.01.17:189][ 95]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.27-00.01.17:189][ 95]PIE: New page: PIE session: TopDownExampleMap (27 Feb 2018 10:01:17 pm)
+[2018.02.27-00.01.17:189][ 95]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.02.27-00.01.17:204][ 95]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014749s)
+[2018.02.27-00.01.17:205][ 95]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.02.27-00.01.17:205][ 95]LogPlayLevel: PIE: World Init took: (0.001048s)
+[2018.02.27-00.01.17:205][ 95]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.016219s)
+[2018.02.27-00.01.17:241][ 95]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.27-00.01.17:253][ 95]LogInit: FAudioDevice initialized.
+[2018.02.27-00.01.17:285][ 95]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.02.27-00.01.17:287][ 95]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.02.27-11.01.17
+[2018.02.27-00.01.17:287][ 95]LogWorld: Bringing up level for play took: 0.002094
+[2018.02.27-00.01.17:288][ 95]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.483
+[2018.02.27-00.01.17:289][ 95]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.27-00.01.31:793][828]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.27-00.01.31:835][828]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.27-00.04.23:442][123]LogSavePackage: Save=52.16ms
+[2018.02.27-00.04.23:443][123]LogSavePackage: Moving '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Saved/EnemyKnightCharacterFB61EBD84BCCF7A16A320FAA953914E2.tmp' to '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Blueprints/EnemyKnightCharacter.uasset'
+[2018.02.27-00.04.23:447][123]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Blueprints/EnemyKnightCharacter.uasset
+[2018.02.27-00.04.24:164][207]BlueprintLog: New page: Compile EnemyKnightCharacter
+[2018.02.27-00.04.27:812][560]LogSavePackage: Save=200.69ms
+[2018.02.27-00.04.27:812][560]LogSavePackage: Moving '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Saved/TopDownExampleMap18EB9E6C420E2088859ED19C8A773B81.tmp' to '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2018.02.27-00.04.27:817][560]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2018.02.27-00.04.27:960][560]LogSavePackage: Save=103.05ms
+[2018.02.27-00.04.27:960][560]LogSavePackage: Moving '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Saved/TopDownExampleMap_BuiltData6C8248104229E32DAFD587A76980F4A2.tmp' to '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2018.02.27-00.04.27:962][560]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset
+[2018.02.27-00.07.13:222][128]LogSavePackage: Save=57.73ms
+[2018.02.27-00.07.13:222][128]LogSavePackage: Moving '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Saved/EnemyKnightCharacter94B0579B4C115E0225F3F3AB9F91EA2A.tmp' to '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Blueprints/EnemyKnightCharacter.uasset'
+[2018.02.27-00.07.13:226][128]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Blueprints/EnemyKnightCharacter.uasset
+[2018.02.27-00.07.13:754][189]BlueprintLog: New page: Compile EnemyKnightCharacter
+[2018.02.27-00.07.16:344][401]LogSavePackage: Save=194.15ms
+[2018.02.27-00.07.16:344][401]LogSavePackage: Moving '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Saved/TopDownExampleMap627D1D934346569BB49EB88570DB1B53.tmp' to '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2018.02.27-00.07.16:350][401]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2018.02.27-00.07.16:489][401]LogSavePackage: Save=97.93ms
+[2018.02.27-00.07.16:489][401]LogSavePackage: Moving '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Saved/TopDownExampleMap_BuiltData638B0BA64EE2E70356710C8E04CB31A5.tmp' to '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2018.02.27-00.07.16:491][401]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset
+[2018.02.27-00.07.16:950][455]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.27-00.07.16:969][455]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.27-00.07.16:969][455]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.27-00.07.16:969][455]PIE: New page: PIE session: TopDownExampleMap (27 Feb 2018 10:07:16 pm)
+[2018.02.27-00.07.16:969][455]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.02.27-00.07.16:984][455]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014388s)
+[2018.02.27-00.07.16:985][455]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.02.27-00.07.16:985][455]LogPlayLevel: PIE: World Init took: (0.001342s)
+[2018.02.27-00.07.16:985][455]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.016228s)
+[2018.02.27-00.07.17:020][455]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.27-00.07.17:031][455]LogInit: FAudioDevice initialized.
+[2018.02.27-00.07.17:060][455]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.02.27-00.07.17:062][455]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.02.27-11.07.17
+[2018.02.27-00.07.17:063][455]LogWorld: Bringing up level for play took: 0.002289
+[2018.02.27-00.07.17:064][455]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.703
+[2018.02.27-00.07.17:064][455]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.27-00.07.39:071][279]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.27-00.07.39:110][279]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.27-00.08.14:574][326]LogSavePackage: Save=58.09ms
+[2018.02.27-00.08.14:574][326]LogSavePackage: Moving '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Saved/EnemyKnightCharacter077B46564DAA2AD26CFE8E9313E6B7B4.tmp' to '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Blueprints/EnemyKnightCharacter.uasset'
+[2018.02.27-00.08.14:579][326]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Blueprints/EnemyKnightCharacter.uasset
+[2018.02.27-00.08.14:956][369]BlueprintLog: New page: Compile EnemyKnightCharacter
+[2018.02.27-00.08.17:822][619]LogSavePackage: Save=191.26ms
+[2018.02.27-00.08.17:822][619]LogSavePackage: Moving '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Saved/TopDownExampleMap6EA0630845C35E180CFF02B0310AADD3.tmp' to '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2018.02.27-00.08.17:827][619]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2018.02.27-00.08.17:946][619]LogSavePackage: Save=97.78ms
+[2018.02.27-00.08.17:947][619]LogSavePackage: Moving '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Saved/TopDownExampleMap_BuiltData969E17D741FCE1AA4E7B3A9C58C96273.tmp' to '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2018.02.27-00.08.17:949][619]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset
+[2018.02.27-00.08.18:447][678]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.27-00.08.18:465][678]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.27-00.08.18:465][678]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.27-00.08.18:465][678]PIE: New page: PIE session: TopDownExampleMap (27 Feb 2018 10:08:18 pm)
+[2018.02.27-00.08.18:465][678]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.02.27-00.08.18:482][678]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016959s)
+[2018.02.27-00.08.18:483][678]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.02.27-00.08.18:484][678]LogPlayLevel: PIE: World Init took: (0.001225s)
+[2018.02.27-00.08.18:484][678]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.018632s)
+[2018.02.27-00.08.18:517][678]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.27-00.08.18:528][678]LogInit: FAudioDevice initialized.
+[2018.02.27-00.08.18:559][678]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.02.27-00.08.18:562][678]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.02.27-11.08.18
+[2018.02.27-00.08.18:562][678]LogWorld: Bringing up level for play took: 0.002130
+[2018.02.27-00.08.18:563][678]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.797
+[2018.02.27-00.08.18:564][678]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.27-00.08.29:159][946]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.27-00.08.29:199][946]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.27-00.08.45:896][759]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.27-00.08.45:907][759]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.27-00.08.45:907][759]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.27-00.08.45:907][759]PIE: New page: PIE session: TopDownExampleMap (27 Feb 2018 10:08:45 pm)
+[2018.02.27-00.08.45:907][759]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.02.27-00.08.45:921][759]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013595s)
+[2018.02.27-00.08.45:922][759]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.02.27-00.08.45:922][759]LogPlayLevel: PIE: World Init took: (0.001480s)
+[2018.02.27-00.08.45:923][759]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.015662s)
+[2018.02.27-00.08.45:956][759]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.27-00.08.45:967][759]LogInit: FAudioDevice initialized.
+[2018.02.27-00.08.45:997][759]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.02.27-00.08.46:000][759]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.02.27-11.08.46
+[2018.02.27-00.08.46:001][759]LogWorld: Bringing up level for play took: 0.002274
+[2018.02.27-00.08.46:002][759]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.236
+[2018.02.27-00.08.46:002][759]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.27-00.08.48:415][ 42]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.27-00.08.48:452][ 42]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.27-00.08.57:710][959]LogSavePackage: Save=188.47ms
+[2018.02.27-00.08.57:710][959]LogSavePackage: Moving '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Saved/TopDownExampleMapA84E30274152CFA8D2255CA6CC360849.tmp' to '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2018.02.27-00.08.57:716][959]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2018.02.27-00.08.57:833][959]LogSavePackage: Save=94.36ms
+[2018.02.27-00.08.57:833][959]LogSavePackage: Moving '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Saved/TopDownExampleMap_BuiltData6CBFB80B4E11EA26683275BDE02FBE5B.tmp' to '../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2018.02.27-00.08.57:836][959]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/zgilfoyle/Documents/GitHub/SHOT_STUDIOS_MASTER/SHOT_STUDIOS_MASTER/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset
