@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\SHOT_STUDIOS_MASTER.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{20E7F452-693B-41DC-82E2-6143E2E49D92}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\SHOT_STUDIOS_MASTER.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\SHOT_STUDIOS_MASTEREditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{D7548B37-0A39-4498-B93A-AE89E38BBACC}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\SHOT_STUDIOS_MASTER">
+			<UniqueIdentifier>{8B1C0F09-C79B-4D42-B2BA-D5B8963188C2}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\SHOT_STUDIOS_MASTER\BaseCharacter.cpp">
+			<Filter>Source\SHOT_STUDIOS_MASTER</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\SHOT_STUDIOS_MASTER\BaseCharacter.h">
+			<Filter>Source\SHOT_STUDIOS_MASTER</Filter>
+		</ClInclude >
+		<None Include="..\..\Source\SHOT_STUDIOS_MASTER\SHOT_STUDIOS_MASTER.Build.cs">
+			<Filter>Source\SHOT_STUDIOS_MASTER</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\SHOT_STUDIOS_MASTER\SHOT_STUDIOS_MASTER.cpp">
+			<Filter>Source\SHOT_STUDIOS_MASTER</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\SHOT_STUDIOS_MASTER\SHOT_STUDIOS_MASTER.h">
+			<Filter>Source\SHOT_STUDIOS_MASTER</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
